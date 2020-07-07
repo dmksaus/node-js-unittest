@@ -1,7 +1,7 @@
 {
   "name": "unit-tests",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "A testbed for unit testing Node",
   "main": "server.js",
   "scripts": {
